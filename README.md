@@ -23,11 +23,34 @@ Unlike other deflationary yield farms, we don't plan to develop layered farming 
 ## Simple and fair 
 
 The rules are as simple and fair as possible. 
-No rug pulls.
-Standard contracts.
-100% burn of dev reward allocation (no token dumping).
-Liquidity will not be withdrawn.
-Multipliers and emission rates will not be changed.
-2/3 of the deposit fee used for buybacks.
+
+ - The rules are as simple and fair as possible. 
+ - No rug pulls.
+ - Standard contracts.
+ - 100% burn of dev reward allocation (no token dumping).
+ - Liquidity will not be withdrawn.
+ - Multipliers and emission rates will not be changed.
+ - 2/3 of the deposit fee used for buybacks.
+ - 5% tax fees - 2% Dev team and 3% for add auto-liquidity
 
 Although yield farming is risky, we are here to provide a secure and fair experience. Please refer to the How it works section for more details on how our yield farms are run.
+
+## Security and Smart contracts
+
+All of the contracts are standard contracts that were used and used in various platforms. Contracts are public and accessible to all
+
+## Risks
+
+Depending on your strategy, you are exposed to various risks. Some of them include:
+ - When you provide the liquidity you are at risk of an impermanent loss.
+ - When you buy the native token you are at risk of token value loss.
+ - When you stake other tokens, you are at risk of being unable to recoup the fee paid. 
+ 
+*Always Do Your Own Research and never risk more than you can lose.*
+Although we tried to ensure the security of our contracts and the platform, there is always a risk of an exploit.
+
+## Contracts
+
+ - $TORN token: 0x
+ - MasterChef: 0x
+ - Timelock: 0x
