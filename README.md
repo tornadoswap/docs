@@ -19,3 +19,15 @@ Unlike other deflationary yield farms, we don't plan to develop layered farming 
 - Create a new branch, make the required changes, test it using the above method
 - Commit to your branch and push to your repo
 - Go to your repo's github page and click Submit a pull request
+
+## Simple and fair 
+
+The rules are as simple and fair as possible. 
+No rug pulls.
+Standard contracts.
+100% burn of dev reward allocation (no token dumping).
+Liquidity will not be withdrawn.
+Multipliers and emission rates will not be changed.
+2/3 of the deposit fee used for buybacks.
+
+Although yield farming is risky, we are here to provide a secure and fair experience. Please refer to the How it works section for more details on how our yield farms are run.
