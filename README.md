@@ -30,8 +30,8 @@ The rules are as simple and fair as possible.
  - 100% burn of dev reward allocation (no token dumping).
  - Liquidity will not be withdrawn.
  - Multipliers and emission rates will not be changed.
- - 2/3 of the deposit fee used for buybacks.
- - 5% tax fees - 2% Dev team and 3% for add auto-liquidity
+ - New TornadoSwap is created at 0.1 TornadoSwap Token per block for tokens that are staked in the farms.
+ - 5% tax fees - 2% Dev team, 2% for add auto-liquidity, 1% burned.
 
 Although yield farming is risky, we are here to provide a secure and fair experience. Please refer to the How it works section for more details on how our yield farms are run.
 
