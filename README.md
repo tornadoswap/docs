@@ -51,6 +51,6 @@ Although we tried to ensure the security of our contracts and the platform, ther
 
 ## Contracts
 
- - $TORN token: 0x
- - MasterChef: 0x
- - Timelock: 0x
+ - $TORN token: 0xe2eb7f2baf1ab2dc4c1b140faa2f75f3a4f8d208
+ - MasterChef: https://bscscan.com/address/0xe477b0532d5c02a4c126572de0c59a526fd811b5#code
+ - Timelock: https://bscscan.com/address/0xd5889f5eac67d60a9166aa840f1e722f2f298ec1#code
